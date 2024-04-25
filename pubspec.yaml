@@ -1,7 +1,7 @@
 name: dio_flutter_transformer2
 description:  A dio transformer espically for flutter, by which the json decoding will be in background with [compute] function in flutter sdk.
 
-version: 4.0.0
+version: 5.0.0
 homepage: https://github.com/arklabsnz/dio_flutter_transformer
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^4.0.0
+  dio: ^5.1.2
 
 dev_dependencies:
   flutter_test:
